@@ -29,7 +29,7 @@ function getFirstAvailable(){
 function takeDateInput() {
 
 	var year = parseInt(prompt("Enter year"));
-	var month = parseInt(prompt("Enter month"));
+	var month = parseInt(prompt("Enter month"))-1;
 	var day = parseInt(prompt("Enter day"));
 
 	var yourVisaDate = new Date(year, month, day);
