@@ -1,3 +1,12 @@
+///Created by Bid Sharma 
+///Date : 2016-6-23
+////////////////////////
+
+//////////////////////////////////////////////////////////
+//Login into the visa application site with a fake account
+//open cosole of the browser
+//copy the entire code below and paste there
+/////////////////////////////////////////////////////////
 
 
 function getFirstAvailable(){
